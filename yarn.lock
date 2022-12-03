@@ -1910,10 +1910,10 @@
   resolved "https://registry.yarnpkg.com/@react-hookz/deep-equal/-/deep-equal-1.0.3.tgz#e044bca38c1612ea8c1596ef858ef7cfea49dd7a"
   integrity sha512-lGZR5l3YRjzeIOHtJhiq96vQKrsq+9lsCyv+0fROMQeSNWtLLzX3R+psHNi6nsoP3XEhspiZ92nsiPmdNo8ztQ==
 
-"@react-hookz/web@19.2.0":
-  version "19.2.0"
-  resolved "https://registry.yarnpkg.com/@react-hookz/web/-/web-19.2.0.tgz#be5e7cbd2cee69830e0d7d2750dbb23698f1a6c4"
-  integrity sha512-6DbL4FjqmjpHsfNAqmduDoseIg6ciDBv/AIaxDJldMl0GR77g6/fxU8dpXDT/E43FYTLepjt8K0TbyAoXZeOHQ==
+"@react-hookz/web@20.0.0":
+  version "20.0.0"
+  resolved "https://registry.yarnpkg.com/@react-hookz/web/-/web-20.0.0.tgz#61ebafa2125ddbd21d54e81a0660d98816926c2c"
+  integrity sha512-6bTMTzFfvU+9fcvmjab4D+/3Uxx2EiHVr0XmS4TWvdABp8QLx2JShHVBHYGU4IDEMZGKE9hNtDoIffalBtwN6Q==
   dependencies:
     "@react-hookz/deep-equal" "^1.0.3"
 
